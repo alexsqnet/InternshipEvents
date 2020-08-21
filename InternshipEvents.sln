@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternshipEvents", "InternshipEvents\InternshipEvents.csproj", "{B9FBF311-82F8-44F3-8FD8-210AF8A211A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternshipEvents2", "InternshipEvents2\InternshipEvents2.csproj", "{C4B58060-97B7-47BC-A0B4-2644F1C7953E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternshipEvents3", "InternshipEvents3\InternshipEvents3.csproj", "{2165BF01-26B7-4381-AE92-9E685551AE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternshipEvents4", "InternshipEvents4\InternshipEvents4.csproj", "{70994D7F-5401-4E71-A4EB-ADFB2E0FFC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterPushButton", "PrinterPushButton\PrinterPushButton.csproj", "{631C3F6E-DDDD-42DC-8FCA-0E38A2AF3B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopShop", "LaptopShop\LaptopShop.csproj", "{6C1C3EE9-72CD-4151-8B25-6ECDF8AB8F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FBF311-82F8-44F3-8FD8-210AF8A211A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FBF311-82F8-44F3-8FD8-210AF8A211A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FBF311-82F8-44F3-8FD8-210AF8A211A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FBF311-82F8-44F3-8FD8-210AF8A211A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B58060-97B7-47BC-A0B4-2644F1C7953E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B58060-97B7-47BC-A0B4-2644F1C7953E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B58060-97B7-47BC-A0B4-2644F1C7953E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B58060-97B7-47BC-A0B4-2644F1C7953E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2165BF01-26B7-4381-AE92-9E685551AE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2165BF01-26B7-4381-AE92-9E685551AE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2165BF01-26B7-4381-AE92-9E685551AE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2165BF01-26B7-4381-AE92-9E685551AE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70994D7F-5401-4E71-A4EB-ADFB2E0FFC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70994D7F-5401-4E71-A4EB-ADFB2E0FFC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70994D7F-5401-4E71-A4EB-ADFB2E0FFC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70994D7F-5401-4E71-A4EB-ADFB2E0FFC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631C3F6E-DDDD-42DC-8FCA-0E38A2AF3B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631C3F6E-DDDD-42DC-8FCA-0E38A2AF3B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631C3F6E-DDDD-42DC-8FCA-0E38A2AF3B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631C3F6E-DDDD-42DC-8FCA-0E38A2AF3B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1C3EE9-72CD-4151-8B25-6ECDF8AB8F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1C3EE9-72CD-4151-8B25-6ECDF8AB8F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1C3EE9-72CD-4151-8B25-6ECDF8AB8F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1C3EE9-72CD-4151-8B25-6ECDF8AB8F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C182F7C-9D55-4968-82B7-DEC506210437}
+	EndGlobalSection
+EndGlobal
